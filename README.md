@@ -1,4 +1,4 @@
-1. Ссылка на деплой: 
+1. Ссылка на деплой: https://wiam-test-task.vercel.app/
 2. Затраченное время: 3-4 часа
 
 ## How to run the application
